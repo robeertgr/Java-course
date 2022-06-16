@@ -6,7 +6,7 @@ import java.time.Instant;
 import java.util.Date;
 import java.util.TimeZone;
 
-public class Program {
+public class WorkingWithDate {
     public static void main(String[] args) throws ParseException {
 
         SimpleDateFormat sdf1 = new SimpleDateFormat("dd/MM/yyyy");
